@@ -1,0 +1,23 @@
+{
+  "name": "charbuilder",
+  "version": "1.0.0",
+  "description": "A VTT module for D&D character creation customized to the world of Edda.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueljohnwilson/charbuilder.git"
+  },
+  "author": "Sam Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samueljohnwilson/charbuilder/issues"
+  },
+  "homepage": "https://github.com/samueljohnwilson/charbuilder#readme"
+}
