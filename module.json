@@ -1,0 +1,15 @@
+{
+  "id": "charbuilder",
+  "title": "Character Builder",
+  "description": "A module customized for building characters in the world of Edda.",
+  "authors": [
+    {
+    "name": "Sam"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}
